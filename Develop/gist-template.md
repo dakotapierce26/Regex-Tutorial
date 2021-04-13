@@ -49,4 +49,5 @@ This expression also uses Bracket Expressions, shown here: ```[a-z\.]```. This a
 ## Author
 
 Written by Dakota Pierce
+
 [Github](https://github.com/dakotapierce26)
