@@ -24,7 +24,7 @@ Regular Expressions (or regex) are a string of variables that are used to extrac
 
 ### Anchors
 
-The regex used to match URL's uses  the ```^``` and ```$``` anchors. The ```^``` siginifies that the string you are seraching for is looking for starts with the lower case letter ```h```, and will not capture any string that doesn't start with this letter. The ```$``` means that this is the end of the desired search.
+The regex used to match URL's uses  the ```^``` and ```$``` anchors. The ```^``` siginifies that the string you are searching for is looking for starts with the lower case letter ```h```, and will not capture any string that doesn't start with this letter. The ```$``` means that this is the end of the desired search.
 
 ### Quantifiers
 
